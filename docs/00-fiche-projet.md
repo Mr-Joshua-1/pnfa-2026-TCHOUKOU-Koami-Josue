@@ -1,15 +1,16 @@
-# Fiche projet — Équipe NN
+# Fiche projet — Équipe 14
 
-> Livrable L2 · Jalon J1 (samedi 29 août 2026) · validée par l'encadreur référent.
+> Livrable L2 · Jalon J1 (samedi 29 août 2026) · validée par l'encadreur référent(BALAO Emmanuel) & son assistant PINEWAI Aron.
 > Aucune fabrication n'est autorisée avant la validation de ce jalon.
 
-## 1. Titre et accroche
+## 1. MINUTEUR GÉANT POUR LES ACTIVITÉS PÉDAGOGIQUES AVEC SIRÈNE  
 
-Nom du dispositif, une phrase pour le présenter à un chef d'établissement.
+MINUTEUR GÉANT POUR LES ACTIVITÉS PÉDAGOGIQUES AVEC SIRÈNE  , un dispositif pédagogique clé en main alliant un affichage géant du temps et une alarme sonore pour optimiser la gestion des travaux de groupe, des évaluations et des ateliers.
 
 ## 2. Besoin et bénéficiaires
 
-La difficulté d'apprentissage visée · les élèves concernés (discipline, niveau, effectif) ·
+Les apprenants ont parfois des difficultés à visualiser le temps restant pendant une activité 
+pédagogique ·Tous les élèves sont concernés (toute discipline, tout niveau, effectif : environ 200 ) ·
 l'établissement d'accueil.
 
 ## 3. Objectifs d'apprentissage
